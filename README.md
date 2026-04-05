@@ -1,13 +1,7 @@
 ## Hi there! I'm Alessandro Bordogna ✋
-### I am an aspiring 19 year old developer currently working on a user-friendly D3 DSA Visualizer. 
+### I am an aspiring 19 year old developer based in NC.
 
 
-
-  
-
-📍 Based in North Carolina, USA
-
-📝 Currently building a data structure & algorithm visualizer application.
 
 
  ## Skills
