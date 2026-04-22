@@ -1,5 +1,4 @@
-## Hi there! I'm Alessandro Bordogna ✋
-### I am an aspiring 19 year old developer based in NC.
+## Aspiring developer based in NC.
 
 
 
