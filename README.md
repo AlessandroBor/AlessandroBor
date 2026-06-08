@@ -1,1 +1,1 @@
-## Aspiring developer based in NC.
+## Developer based in NC.
